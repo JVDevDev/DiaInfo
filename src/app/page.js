@@ -5,11 +5,7 @@ export default function Home() {
   return (
     <div className={styles.page}>
       <main className={styles.main}>
-        <ol>
-          <li>
-            Dia Info
-          </li>
-        </ol>
+        DiaInfo - Informações do dia rápida para suas tarefas
       </main>
     </div>
   );
