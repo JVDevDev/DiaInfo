@@ -1,4 +1,4 @@
-# TaskMail
+# DiaInfo
 
-Task mail é um agendador de tarefas no qual elas são enviadas diretamente para o email
+Um site que manda informações sobre o dia a dia
 
